@@ -40,7 +40,7 @@ h1 {
   border-radius: 200px;
 }
 
-.character text{
+.character name{
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(40, 76, 207);
     font-size: 30px;
@@ -48,7 +48,7 @@ h1 {
     margin-bottom: 10px;
 }
 
-.character text2{
+.character message{
     font-size:12px;
     color: rgb(175, 175, 175);
     margin-bottom: 10px;
